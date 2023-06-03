@@ -1,8 +1,9 @@
    ![giphy](https://github.com/Savonyp/Savonyp/assets/77499378/0690d757-d861-42d3-9ca2-e9039a204a7f)
+![tumblr_5a0f5fa92820cdc623c6b0b033a52d75_2095b130_540](https://github.com/Savonyp/Savonyp/assets/77499378/11a59c17-c5c1-4434-8b35-8857197d2775)
 
 ### Hi there, I'm Savony👋
 Software engineer, fullstack developer, and UI/UX designer.
-<!--add known languages--->
+<!--add known languages and tools--->
 
 ### Objective 
 Seeking an internship opportunity in the tech industry to apply myself and further develop my
@@ -16,11 +17,11 @@ I am a self-starter in the pursuit of a computer science degree. I discovered th
 
 <!--Add in Github Stats-->
 
-###### 🔭 I’m currently working on a React Portfolio and Book Search engine
+###### 🔭 I’m currently working on a React Portfolio and Book Search engine website
 ###### 🌱 I’m currently learning Data structures and algorithms
 ###### 🤔 I’m looking for help with anything and any advice u have to offer.
 ###### 📫 How to reach me: My Email is Savonyp@yahoo.com discord: chickenstirfry#3531 
+###### 👾 Fun Fact: I like to play Cozy games and I like stirfry 
 ###### 😄 Pronouns: She/Her
-###### 👾 Fun Fact: I like to play Cozy games
 
-![toro-toro-inoue](https://github.com/Savonyp/Savonyp/assets/77499378/ddb62174-9b5b-4df6-a7b0-50a06887e6a4) width="100" height="100"
+![toro-toro-inoue](https://github.com/Savonyp/Savonyp/assets/77499378/ddb62174-9b5b-4df6-a7b0-50a06887e6a4)
