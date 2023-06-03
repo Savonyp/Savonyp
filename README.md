@@ -1,9 +1,7 @@
-   ![giphy](https://github.com/Savonyp/Savonyp/assets/77499378/0690d757-d861-42d3-9ca2-e9039a204a7f)
 ![tumblr_5a0f5fa92820cdc623c6b0b033a52d75_2095b130_540](https://github.com/Savonyp/Savonyp/assets/77499378/11a59c17-c5c1-4434-8b35-8857197d2775)
-
 ### Hi there, I'm Savony👋
 Software engineer, fullstack developer, and UI/UX designer.
-<!--add known languages and tools--->
+<--add known languages and tools--->
 
 ### Objective 
 Seeking an internship opportunity in the tech industry to apply myself and further develop my
@@ -15,8 +13,8 @@ I am a self-starter in the pursuit of a computer science degree. I discovered th
 
 👨‍💻 All of my projects are available at: 
 
-<!--Add in Github Stats-->
-
+<--Add in Github Stats-->
+![giphy](https://github.com/Savonyp/Savonyp/assets/77499378/0690d757-d861-42d3-9ca2-e9039a204a7f)
 ###### 🔭 I’m currently working on a React Portfolio and Book Search engine website
 ###### 🌱 I’m currently learning Data structures and algorithms
 ###### 🤔 I’m looking for help with anything and any advice u have to offer.
@@ -24,4 +22,5 @@ I am a self-starter in the pursuit of a computer science degree. I discovered th
 ###### 👾 Fun Fact: I like to play Cozy games and I like stirfry 
 ###### 😄 Pronouns: She/Her
 
-![toro-toro-inoue](https://github.com/Savonyp/Savonyp/assets/77499378/ddb62174-9b5b-4df6-a7b0-50a06887e6a4)
+![HonoredUnselfishDungenesscrab-max-1mb](https://github.com/Savonyp/Savonyp/assets/77499378/4c49bc5d-b6df-4d57-8fea-05d2d85d362d)
+
