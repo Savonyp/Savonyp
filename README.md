@@ -14,10 +14,10 @@ I am a self-starter in the pursuit of a computer science degree. I discovered th
 
 <!--Add in Github Stats-->
 
-## 🔭 I’m currently working on Book Search engine
-## 🌱 I’m currently learning Data structures and algorithms
-## 🤔 I’m looking for help with anything and any advice u have to offer.
-## 📫 How to reach me: My Email is Savonyp@yahoo.com discord: chickenstirfry#3531
-## 😄 Pronouns: She/Her
-## 👾 Fun Fact: I like to play Cozy games
+# 🔭 I’m currently working on Book Search engine
+# 🌱 I’m currently learning Data structures and algorithms
+# 🤔 I’m looking for help with anything and any advice u have to offer.
+# 📫 How to reach me: My Email is Savonyp@yahoo.com discord: chickenstirfry#3531
+# 😄 Pronouns: She/Her
+# 👾 Fun Fact: I like to play Cozy games
 
