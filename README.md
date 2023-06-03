@@ -14,6 +14,8 @@ I am a self-starter in the pursuit of a computer science degree. I discovered th
 👨‍💻 All of my projects are available at: 
 
 <--Add in Github Stats-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 ![giphy](https://github.com/Savonyp/Savonyp/assets/77499378/0690d757-d861-42d3-9ca2-e9039a204a7f)
 ###### 🔭 I’m currently working on a React Portfolio and Book Search engine website
 ###### 🌱 I’m currently learning Data structures and algorithms
