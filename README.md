@@ -1,5 +1,6 @@
 ### Hi there, I'm Savony👋
-<!-- add cozy gif--->
+![toro-toro-inoue](https://github.com/Savonyp/Savonyp/assets/77499378/ddb62174-9b5b-4df6-a7b0-50a06887e6a4)
+
 
 Software engineer, fullstack developer, and UI/UX designer.
 <!--add known languages--->
