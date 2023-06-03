@@ -32,7 +32,7 @@ I am a self-starter in the pursuit of a computer science degree. I discovered th
 ![Savony's GitHub stats](https://github-readme-repo.vercel.app/api?username=Savonyp&theme=omni_icons=true)
 
 ###### 🔭 I’m currently working on a React Portfolio and Book Search engine website
-###### 🌱 I’m currently learning Data structures and algorithms
+###### 🌱 I’m currently learning Python, Data structures and algorithms
 ###### 🤔 I’m looking for help with anything and any advice u have to offer.
 ![giphy](https://github.com/Savonyp/Savonyp/assets/77499378/0690d757-d861-42d3-9ca2-e9039a204a7f)
 ### Connect & build with me
