@@ -1,8 +1,4 @@
-![animal-crossing-animal-crossing-new-horizons](https://github.com/Savonyp/Savonyp/assets/77499378/66432db2-8b9c-47f9-ad96-33054cd2369d)
-
-![giphy](https://github.com/Savonyp/Savonyp/assets/77499378/0690d757-d861-42d3-9ca2-e9039a204a7f)
-
-![animalcrossing-cute](https://github.com/Savonyp/Savonyp/assets/77499378/0d9696f3-4c98-4a94-9137-ffb39d086bb9)
+   ![giphy](https://github.com/Savonyp/Savonyp/assets/77499378/0690d757-d861-42d3-9ca2-e9039a204a7f)
 
 ### Hi there, I'm Savony👋
 Software engineer, fullstack developer, and UI/UX designer.
