@@ -1,4 +1,4 @@
-![tumblr_5a0f5fa92820cdc623c6b0b033a52d75_2095b130_540](https://github.com/Savonyp/Savonyp/assets/77499378/11a59c17-c5c1-4434-8b35-8857197d2775)
+![HonoredUnselfishDungenesscrab-max-1mb](https://github.com/Savonyp/Savonyp/assets/77499378/4c49bc5d-b6df-4d57-8fea-05d2d85d362d)
 ### Hi there, I'm Savony👋
 Software engineer, fullstack developer, and UI/UX designer.
 <!--add known languages and tools--->
@@ -40,5 +40,4 @@ I am a self-starter in the pursuit of a computer science degree. I discovered th
 ###### 👾 Fun Fact: I like to play Cozy games and I like stirfry 
 ###### 😄 Pronouns: She/Her
 
-![HonoredUnselfishDungenesscrab-max-1mb](https://github.com/Savonyp/Savonyp/assets/77499378/4c49bc5d-b6df-4d57-8fea-05d2d85d362d)
-
+![tumblr_5a0f5fa92820cdc623c6b0b033a52d75_2095b130_540](https://github.com/Savonyp/Savonyp/assets/77499378/11a59c17-c5c1-4434-8b35-8857197d2775)
