@@ -39,5 +39,3 @@ I am a self-starter in the pursuit of a computer science degree. I discovered th
 ###### 📫 How to reach me: My Email is Savonyp@yahoo.com discord: chickenstirfry#3531 
 ###### 👾 Fun Fact: I like to play Cozy games and I like stirfry 
 ###### 😄 Pronouns: She/Her
-
-![tumblr_5a0f5fa92820cdc623c6b0b033a52d75_2095b130_540](https://github.com/Savonyp/Savonyp/assets/77499378/11a59c17-c5c1-4434-8b35-8857197d2775)
