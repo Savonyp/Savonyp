@@ -1,5 +1,6 @@
 ![HonoredUnselfishDungenesscrab-max-1mb](https://github.com/Savonyp/Savonyp/assets/77499378/4c49bc5d-b6df-4d57-8fea-05d2d85d362d)
 ## Hi there, I'm Savony👋
+Junior developer, and UI/UX Desiner 
 <!--add known languages and tools--->
 <p align="center">
  <a href="https://github.com/Savonyp" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
@@ -33,7 +34,7 @@ I embrace challenges head-on, using my resourcefulness and resilience to overcom
 ![Savony's GitHub stats](https://github-readme-repo.vercel.app/api?username=Savonyp&theme=omni_icons=true)
 
 ###### 🔭 I’m currently working on a React Portfolio and Book Search engine website
-###### 🌱 I’m currently learning Python, Data structures and algorithms
+###### 🌱 I’m currently learning Python, Data structures and algorithms, and full-stack development.
 ###### 🤔 I’m looking for help with anything and any advice u have to offer.
 ![giphy](https://github.com/Savonyp/Savonyp/assets/77499378/0690d757-d861-42d3-9ca2-e9039a204a7f)
 ### Connect & build with me
